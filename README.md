@@ -6,7 +6,7 @@
 - Wat zijn de problemen die optreden bij onze huidige concepten van uitschakelmechanismes?
 - Welke uitschakelmechanismes zijn het meest geschikt voor ons product?
 - Welke mogelijkheden hebben we bij de digitale uitschakelmechanismes?
-## Expert review
+## Expert review (n = 2)
 ### Doestellingen
 Wat wilde je bereiken?
 ### Materiaal & methoden
@@ -17,9 +17,9 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 
-## Gebruikerstest (n = ...)
+## Gebruikerstest (n = 4)
 ### Doestellingen
-Wat wilde je bereiken?
+Bij deze gebruikerstest wilden we de huidige concepten van uitschakelmechanismes testen zodat we de voor- en nadelen kunnen vergelijken en al bepaalde mechanismes kunnen uitsluiten.
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
