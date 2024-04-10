@@ -29,7 +29,7 @@ Op voorhand worden vier concepten voor de uitschakelmechanismes bedacht:
 
 Voor elk concept wordt een simpel prototype bedacht en een manier om het concept te testen. Na de test van elk concept krijgen de testpersonen een invulblad waarbij ze het volgende op een schaal van 1 tot en met 10 moeten beoordelen: leukheid, veiligheid, gemakkelijkheid. De specifieke vragen zijn:
 
-- Hoe leuk vond je het spel?
+- Hoe leuk vond je deze manier van uitschakelen?
 - Hoe gemakkelijk ging het om uit te schakelen/uitgeschakeld te worden?
 - Is het spel veilig verlopen?
 
