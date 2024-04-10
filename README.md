@@ -3,7 +3,9 @@
 *Kampkode: Robbe de Guytenaer; Kai Cherchye*
 
 ## Onderzoeksvragen
-
+- Wat zijn de problemen die optreden bij onze huidige concepten van uitschakelmechanismes?
+- Welke uitschakelmechanismes zijn het meest geschikt voor ons product?
+- Welke mogelijkheden hebben we bij de digitale uitschakelmechanismes?
 ## Expert review
 ### Doestellingen
 Wat wilde je bereiken?
