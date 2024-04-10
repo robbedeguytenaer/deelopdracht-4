@@ -19,9 +19,14 @@ Definieer de belangrijkste designbeslissingen
 
 ## Gebruikerstest (n = 4)
 ### Doestellingen
-Bij deze gebruikerstest wilden we de huidige concepten van uitschakelmechanismes testen zodat we de voor- en nadelen kunnen vergelijken en al bepaalde mechanismes kunnen uitsluiten.
+Bij deze gebruikerstest willen we de huidige concepten van uitschakelmechanismes testen zodat we de voor- en nadelen kunnen vergelijken en al bepaalde mechanismes kunnen uitsluiten.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Op voorhand werden vier concepten voor de uitschakelmechanismes bedacht:
+1. uitschakelen door slaan op flexibele lamp
+2. magnetische lamp van helm trekken
+3. binnen bepaalde radius in de buurt komen
+4. mikken met pointer op sensor van helm
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
