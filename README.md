@@ -27,7 +27,13 @@ Op voorhand worden vier concepten voor de uitschakelmechanismes bedacht:
 3. binnen bepaalde radius in de buurt komen
 4. mikken met pointer op sensor van helm
 
-Voor elk concept wordt een simpel prototype bedacht en een manier om het concept te testen. Na de test van elk concept krijgen de testpersonen een invulblad waarbij ze het volgende op een schaal van 1 tot 10 moeten beoordelen: leukheid, veiligheid, gemakkelijkheid. Robbe en Kai vullen het blad ook zelf in, op basis van wat zij observeren tijdens de test. Achteraf worden de verschillende scores samengelegd en wordt geëvalueerd welke uitschakelmechanismes het beste werken.
+Voor elk concept wordt een simpel prototype bedacht en een manier om het concept te testen. Na de test van elk concept krijgen de testpersonen een invulblad waarbij ze het volgende op een schaal van 1 tot en met 10 moeten beoordelen: leukheid, veiligheid, gemakkelijkheid. De specifieke vragen zijn:
+
+- Hoe leuk vond je het spel?
+- Hoe gemakkelijk ging het om uit te schakelen/uitgeschakeld te worden?
+- Is het spel veilig verlopen?
+
+Robbe en Kai vullen het blad ook zelf in, op basis van wat zij observeren tijdens de test. Achteraf worden de verschillende scores samengelegd en wordt geëvalueerd welke uitschakelmechanismes het beste werken.
 
 Voor meer informatie en een uitgebreid testprotocol [klik hier](https://docs.google.com/document/d/1BkApIH-f38Q3cW6vv41kQgkfSpGxI7UM/edit?usp=sharing&ouid=104947688789871349253&rtpof=true&sd=true).
 ### Resultaten
