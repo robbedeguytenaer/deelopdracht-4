@@ -37,6 +37,7 @@ Robbe en Kai vullen het blad ook zelf in, op basis van wat zij observeren tijden
 
 Voor meer informatie en een uitgebreid testprotocol [klik hier](https://docs.google.com/document/d/1BkApIH-f38Q3cW6vv41kQgkfSpGxI7UM/edit?usp=sharing&ouid=104947688789871349253&rtpof=true&sd=true).
 ### Resultaten
+Een uitgebreide testanalyse/-rapport is [hier](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing) te vinden.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
