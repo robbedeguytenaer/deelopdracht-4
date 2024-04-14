@@ -39,6 +39,7 @@ Voor meer informatie en een uitgebreid testprotocol [klik hier](https://docs.goo
 ### Resultaten
 Een uitgebreide testanalyse/-rapport is [hier](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing) te vinden.
 
+De testresultaten zijn hieronder weergegeven in een tabel:
 ||Mechanisme 1|Mechanisme 2|Mechanisme 3|Mechanisme 3|
 |---:|:---:|:---:|:---:|:---:|
 |TOTAAL|138|141|144|153|
