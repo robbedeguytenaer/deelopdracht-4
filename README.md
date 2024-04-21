@@ -45,9 +45,12 @@ De testresultaten zijn hieronder weergegeven in een tabel:
 |TOTAAL|138|141|144|153|
 |relatief|0,767|0,783|0,800|0,850|
 
-In deze test werd duidelijk dat mechanisme 1 en 2 - waarbij men fysiek aan het hoofd van de tegenstander moet geraken - minder geschikt zijn wanneer er een groot hoogteverschil is tussen de spelers. Ook zijn dit de twee mechanismes waarbij de veiligheid meer in het gedrang komt, door het fysiek raken van het hoofd. Mechanisme 2 scoort hier beter dan mechanisme 1. Op zich zouden voor deze problemen ook oplossingen kunnen worden bedacht, maar het zijn zeker dingen om mee rekening te houden. Mechanisme 3 testten we aan de hand van het klassieke 'tikken'. Hier speelde hoogte geen rol meer, enkel de snelheid van de spelers en het vermogen tot tactisch ontwijken. 
+In deze test werd duidelijk dat mechanisme 1 en 2 - waarbij men fysiek aan het hoofd van de tegenstander moet geraken - minder geschikt zijn wanneer er een groot hoogteverschil is tussen de spelers. Ook zijn dit de twee mechanismes waarbij de veiligheid meer in het gedrang komt, door het fysiek raken van het hoofd. Mechanisme 2 scoort hier beter dan mechanisme 1. Op zich zouden voor deze problemen ook oplossingen kunnen worden bedacht, maar het zijn zeker dingen om mee rekening te houden.
 
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Mechanisme 3 testten we aan de hand van het klassieke 'tikken'. Hier speelde hoogte geen rol meer, enkel de snelheid van de spelers en het vermogen tot tactisch ontwijken. Grote verschillen hierin kunnen we oplossen door de helm personaliseerbaar te maken, waarbij bijvoorbeeld de radius tot anderen kan worden ingesteld. 
+
+Mechanisme 4 gaf de testpersonen echt het gevoel van een digitaal spel. Het deed ze denken aan 'lasershooten'. In essentie zou ons product ook een vorm van lasershooten kunnen zijn, maar er zouden nog meer mogelijkheden zijn. Als we dit mechanisme willen gebruiken moeten we eerst het mechanisme echt doen werken en dan opnieuw testen zodat we zeker zijn dat het aanslaat.
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
