@@ -10,7 +10,7 @@
 
 ## Gebruikerstest (n = 4)
 ### Doestellingen
-Bij deze gebruikerstest willen we de huidige concepten van uitschakelmechanismes testen zodat we de voor- en nadelen kunnen vergelijken en al bepaalde mechanismes kunnen uitsluiten.
+Bij deze gebruikerstest willen we de huidige concepten van uitschakelmechanismes testen zodat we de voor- en nadelen kunnen vergelijken en eventueel al bepaalde mechanismes kunnen uitsluiten.
 ### Materiaal & methoden
 Op voorhand worden vier concepten voor de uitschakelmechanismes bedacht:
 1. uitschakelen door slaan op flexibele lamp
