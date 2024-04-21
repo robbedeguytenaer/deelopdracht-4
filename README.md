@@ -27,6 +27,14 @@ Voor elk concept wordt een simpel prototype bedacht en een manier om het concept
 Robbe en Kai vullen het blad ook zelf in, op basis van wat zij observeren tijdens de test. Achteraf worden de verschillende scores samengelegd en wordt geëvalueerd welke uitschakelmechanismes het beste werken.
 
 Voor meer informatie en een uitgebreid testprotocol [klik hier](https://docs.google.com/document/d/1BkApIH-f38Q3cW6vv41kQgkfSpGxI7UM/edit?usp=sharing&ouid=104947688789871349253&rtpof=true&sd=true).
+
+<p>
+  <img src="beeldmateriaal/IMG_4473.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4482.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4515.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4488.JPG" width="24%"/>
+</p>
+
 ### Resultaten
 Een uitgebreide testanalyse/-rapport is [hier](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing) te vinden.
 
