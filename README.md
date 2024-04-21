@@ -57,7 +57,7 @@ De test gaf ons een beeld van hoe elk mechanisme er in de praktijk uit zou zien,
 
 ## Expert review (n = 2)
 ### Doestellingen
-Wat wilde je bereiken?
+Tijdens deze test streven we ernaar om de diverse sensoren te evalueren op meerdere criteria, met als uiteindelijk doel een weloverwogen conclusie te formuleren over welke sensor het meest geschikt is voor het aftiksysteem.
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
