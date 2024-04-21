@@ -44,6 +44,8 @@ De testresultaten zijn hieronder weergegeven in een tabel:
 |---:|:---:|:---:|:---:|:---:|
 |TOTAAL|138|141|144|153|
 
+In deze test werd duidelijk dat mechanisme 1 en 2 - waarbij men fysiek aan het hoofd van de tegenstander moet geraken - minder geschikt zijn wanneer er een groot hoogteverschil is tussen de spelers. Ook zijn dit de twee mechanismes waarbij de veiligheid meer in het gedrang komt, door het fysiek raken van het hoofd. Mechanisme 2 scoort hier beter dan mechanisme 1. Op zich zouden voor deze problemen ook oplossingen kunnen worden bedacht, maar het zijn zeker dingen om mee rekening te houden. Mechanisme 3 testten we aan de hand van het klassieke 'tikken'. Hier speelde hoogte geen rol meer, enkel de snelheid van de spelers en het vermogen tot tactisch ontwijken. 
+
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
