@@ -68,6 +68,7 @@ Gebruikte materiaal:
  - rgb led
  - ultrasonorsensor
  - evaluatieformulier
+ - 
 De test zal worden uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na afloop van elk deel zal het testpersoon een evaluatieformulier invullen dat is gebaseerd op meerdere factoren, waaronder gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Bovendien is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
 
 ### Resultaten
