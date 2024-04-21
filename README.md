@@ -52,6 +52,8 @@ Mechanisme 3 testten we aan de hand van het klassieke 'tikken'. Hier speelde hoo
 Mechanisme 4 gaf de testpersonen echt het gevoel van een digitaal spel. Het deed ze denken aan 'lasershooten'. In essentie zou ons product ook een vorm van lasershooten kunnen zijn, maar er zouden nog meer mogelijkheden zijn. Als we dit mechanisme willen gebruiken moeten we eerst het mechanisme echt doen werken en dan opnieuw testen zodat we zeker zijn dat het aanslaat.
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Van mechanisme 1 en 2 hebben we een goed beeld hoe het spel in het echt zou verlopen. Hier zijn dus geen extra testen vereist. Mechanisme 3 en 4 hebben we proberen nabootsen omdat we de technologie nog niet hadden. Omdat deze twee de hoogste score kregen zullen we nu de technologie achter deze mechanismes uitwerken en testen in de expert review. 
+
+De test gaf ons een beeld van hoe elk mechanisme er in de praktijk uit zou zien, en heeft veel waardevolle inzichten geleverd. De score is manier om de tevredenheid van de testpersonen in kaart te brengen maar niet volledig doorslaggevend, zeker omdat de scores ook niet zo ver van elkaar liggen en er voor elk probleem nog een oplossing kan worden bedacht. Echt concrete designbeslissingen hebben we dus niet maar we hebben wel een duidelijk idee van de volgende stappen die we moeten nemen.
 
 ## Bronnen
