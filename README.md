@@ -39,7 +39,7 @@ Voor meer informatie en een uitgebreid testprotocol [klik hier](https://docs.goo
 Een uitgebreide testanalyse/-rapport is [hier](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing) te vinden.
 
 De testresultaten zijn hieronder weergegeven in een tabel:
-||Mechanisme 1|Mechanisme 2|Mechanisme 3|Mechanisme 3|
+||Mechanisme 1|Mechanisme 2|Mechanisme 3|Mechanisme 4|
 |---:|:---:|:---:|:---:|:---:|
 |TOTAAL|138|141|144|153|
 |relatief|0,767|0,783|0,800|0,850|
@@ -59,7 +59,17 @@ De test gaf ons een beeld van hoe elk mechanisme er in de praktijk uit zou zien,
 ### Doestellingen
 Tijdens deze test streven we ernaar om de diverse sensoren te evalueren op meerdere criteria, met als uiteindelijk doel een weloverwogen conclusie te formuleren over welke sensor het meest geschikt is voor het aftiksysteem.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Gebruikte materiaal: 
+ - arduino uno
+ - arduino nano 33 iot
+ - infraroodsensor
+ - infraroodzender
+ - kleurensensor
+ - rgb led
+ - ultrasonorsensor
+ - evaluatieformulier
+De test zal worden uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na afloop van elk deel zal het testpersoon een evaluatieformulier invullen dat is gebaseerd op meerdere factoren, waaronder gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Bovendien is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
