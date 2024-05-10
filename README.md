@@ -72,6 +72,12 @@ Gebruikte materiaal:
 De test zal worden uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na afloop van elk deel zal het testpersoon een evaluatieformulier invullen dat is gebaseerd op meerdere factoren, waaronder gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Bovendien is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
 
 ### Resultaten
+|Totaal score sensoren|Emile Delanote|Oscar Ortega Saez|Warre De Vriendt|Opsomming|
+|---:|:---:|:---:|:---:|:---:|
+|IR-sensor|20|22|23|65|
+|Kleurensensor|21|15|22|58|
+|Ultrasoonsensor|21|13|17|51|
+|Bluetooth|22|22|25|69|
 
 Resultaten zijn gebaseerd op evaluatieformulieren ingevuld door drie studenten. De Bluetooth-sensor en de infraroodsensor scoorden consistent hoog in alle tests. De Bluetooth-sensor kreeg hoge waarderingen voor gebruiksvriendelijkheid en bereik, terwijl andere aspecten een score van 3 tot 4 behaalden. De infraroodsensor scoorde over het algemeen hoog, behalve op het gebied van robuustheid.
 
