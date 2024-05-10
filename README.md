@@ -69,15 +69,39 @@ Gebruikte materiaal:
  - ultrasonorsensor
  - evaluatieformulier
 
-De test zal worden uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na afloop van elk deel zal het testpersoon een evaluatieformulier invullen dat is gebaseerd op meerdere factoren, waaronder gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Bovendien is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
+De test werd uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na elk deel zal het testpersoon een evaluatieformulier invullen, gebaseerd op verschillende factoren, zoals gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Vervolgens is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Daarnaast zullen ze de sensoren rangschikken van 1 (meest toepasselijk) tot 4 (minst toepasselijk) op basis van hun ervaring bij het buitenspelen, zonder te letten op specifieke aspecten.
+
+Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
 
 ### Resultaten
+
 |Totaal score sensoren|Emile Delanote|Oscar Ortega Saez|Warre De Vriendt|Opsomming|
 |---:|:---:|:---:|:---:|:---:|
 |IR-sensor|20|22|23|65|
 |Kleurensensor|21|15|22|58|
 |Ultrasoonsensor|21|13|17|51|
 |Bluetooth|22|22|25|69|
+
+### Rangschikkingen sensoren
+
+- Emile Delanote
+
+|IR-sensor|Kleurensensor|Ultrasoonsensor|Bluetooth|
+|:---:|:---:|:---:|:---:|
+|3|2|4|1|
+
+- Oscar Ortega Saez
+
+|IR-sensor|Kleurensensor|Ultrasoonsensor|Bluetooth|
+|:---:|:---:|:---:|:---:|
+|1|3|4|2|
+
+- Warre De Vriendt
+
+|IR-sensor|Kleurensensor|Ultrasoonsensor|Bluetooth|
+|:---:|:---:|:---:|:---:|
+|2|3|4|1|
+
 
 Resultaten zijn gebaseerd op evaluatieformulieren ingevuld door drie studenten. De Bluetooth-sensor en de infraroodsensor scoorden consistent hoog in alle tests. De Bluetooth-sensor kreeg hoge waarderingen voor gebruiksvriendelijkheid en bereik, terwijl andere aspecten een score van 3 tot 4 behaalden. De infraroodsensor scoorde over het algemeen hoog, behalve op het gebied van robuustheid.
 
@@ -91,7 +115,10 @@ De ultrasoonsensor scoorde over het algemeen laag bij alle testpersonen. Hoewel 
 </p>
 
 ### Conclusies & implicaties
-Op basis van deze evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd als de meest geschikte sensoren voor integratie in het project, vanwege hun consistent hoge scores op belangrijke aspecten zoals gebruiksvriendelijkheid, bereik en nauwkeurigheid. 
+
+Op basis van de evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd als de meest geschikte sensoren voor integratie in het project. De aftikmethode met Bluetooth-RSSI-meting presteerde over het algemeen het beste, gevolgd door de IR-sensor, kleurensensor en als laatste de ultrasoonsensor.
+
+De aanbeveling om verder te werken met de Bluetooth- en IR-sensoren is gebaseerd op zowel de individuele scores als de rangschikking van de sensoren door de testpersonen. Deze bevinding suggereert dat verschillende aspecten van de sensoren even belangrijk zijn voor een succesvolle integratie in het project. Door te focussen op de Bluetooth- en IR-sensoren kunnen we een gebruiksvriendelijk en nauwkeurig systeem ontwikkelen dat geschikt is voor buitenspelen.
 ## Bronnen
 - [Evaluatie formulier 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2553d092-bdd5-44fe-9d42-5e5778c4db4d)
 - [Evaluatie formulier 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:056f8e72-f52f-4371-a4a1-262baf1f0f5e)
