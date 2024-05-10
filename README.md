@@ -125,8 +125,8 @@ Gebruikerstest:
 - [Analyse TEST 2](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing)
 
 Expert Review:
+- [Testprotocol TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
 - [Evaluatie formulier 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2553d092-bdd5-44fe-9d42-5e5778c4db4d)
 - [Evaluatie formulier 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:056f8e72-f52f-4371-a4a1-262baf1f0f5e)
 - [Evaluatie formulier 3](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5815be64-04de-4a13-ae02-c3a1e72197e6)
-- [Testprotocol TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
 - [Analyse TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
