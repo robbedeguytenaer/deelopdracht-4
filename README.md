@@ -55,7 +55,7 @@ Van mechanisme 1 en 2 hebben we een goed beeld hoe het spel in het echt zou verl
 
 De test gaf ons een beeld van hoe elk mechanisme er in de praktijk uit zou zien, en heeft veel waardevolle inzichten geleverd. De score is manier om de tevredenheid van de testpersonen in kaart te brengen maar niet volledig doorslaggevend, zeker omdat de scores ook niet zo ver van elkaar liggen en er voor elk probleem nog een oplossing kan worden bedacht. Echt concrete designbeslissingen hebben we dus niet maar we hebben wel een duidelijk idee van de volgende stappen die we moeten nemen.
 
-## Expert review (n = 2)
+## Expert review (n = 3)
 ### Doestellingen
 Tijdens deze test streven we ernaar om de diverse sensoren te evalueren op meerdere criteria, met als uiteindelijk doel een weloverwogen conclusie te formuleren over welke sensor het meest geschikt is voor het aftiksysteem.
 ### Materiaal & methoden
