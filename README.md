@@ -123,4 +123,4 @@ De aanbeveling om verder te werken met de Bluetooth- en IR-sensoren is gebaseerd
 - [Evaluatie formulier 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2553d092-bdd5-44fe-9d42-5e5778c4db4d)
 - [Evaluatie formulier 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:056f8e72-f52f-4371-a4a1-262baf1f0f5e)
 - [Evaluatie formulier 3](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5815be64-04de-4a13-ae02-c3a1e72197e6)
-- [Test protocol deelopdracht 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
+- [Testprotocol TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
