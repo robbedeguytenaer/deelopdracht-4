@@ -120,7 +120,12 @@ Op basis van de evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd 
 
 De aanbeveling om verder te werken met de Bluetooth- en IR-sensoren is gebaseerd op zowel de individuele scores als de rangschikking van de sensoren door de testpersonen. Deze bevinding suggereert dat verschillende aspecten van de sensoren even belangrijk zijn voor een succesvolle integratie in het project. Door te focussen op de Bluetooth- en IR-sensoren kunnen we een gebruiksvriendelijk en nauwkeurig systeem ontwikkelen dat geschikt is voor buitenspelen.
 ## Bronnen
+Gebruikerstest:
+- [Testprotocol TEST 2](https://docs.google.com/document/d/1BkApIH-f38Q3cW6vv41kQgkfSpGxI7UM/edit?usp=sharing&ouid=104947688789871349253&rtpof=true&sd=true)
+- [Analyse TEST 2](https://docs.google.com/document/d/11eM8duXbH3rawkLGtEZsMN7NXjgnw0J47GiqyqHjih0/edit?usp=sharing)
+Expert Review:
 - [Evaluatie formulier 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2553d092-bdd5-44fe-9d42-5e5778c4db4d)
 - [Evaluatie formulier 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:056f8e72-f52f-4371-a4a1-262baf1f0f5e)
 - [Evaluatie formulier 3](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5815be64-04de-4a13-ae02-c3a1e72197e6)
 - [Testprotocol TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
+- [Analyse TEST 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
