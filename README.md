@@ -72,8 +72,22 @@ Gebruikte materiaal:
 De test zal worden uitgevoerd in vier delen, waarbij in elk deel een andere sensor zal worden gebruikt. Na afloop van elk deel zal het testpersoon een evaluatieformulier invullen dat is gebaseerd op meerdere factoren, waaronder gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Bovendien is er een sectie waarin ze extra opmerkingen kunnen toevoegen over de test. Op basis van de resultaten van de evaluatieformulieren zullen we richtlijnen opstellen voor welke sensor(en) verder moeten worden gebruikt in ons project.
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
+Resultaten zijn gebaseerd op evaluatieformulieren ingevuld door drie studenten. De Bluetooth-sensor en de infraroodsensor scoorden consistent hoog in alle tests. De Bluetooth-sensor kreeg hoge waarderingen voor gebruiksvriendelijkheid en bereik, terwijl andere aspecten een score van 3 tot 4 behaalden. De infraroodsensor scoorde over het algemeen hoog, behalve op het gebied van robuustheid.
+
+Hoewel de kleurensensor als een interessant concept werd beschouwd, waren er enkele nadelen, zoals een beperkt bereik en onnauwkeurige kleurdetectie bij snelle bewegingen. Hierdoor werd besloten deze niet te integreren in het project.
+
+De ultrasoonsensor scoorde over het algemeen laag bij alle testpersonen. Hoewel het interessant was om te weten hoe ver een object zich bevond ten opzichte van de speler, was het probleem dat de sensor ook niet-spelers detecteerde, waardoor het gebruik ervan in het project bemoeilijkt werd.
+<p>
+  <img src="beeldmateriaal/emile_IR.jpg" width="33%"/>
+  <img src="beeldmateriaal/Oscar_bluetooth.jpg" width="33%"/>
+  <img src="beeldmateriaal/Warre_kleurensensor.jpg" width="33%"/>
+</p>
+
+### Conclusies & implicaties
+Op basis van deze evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd als de meest geschikte sensoren voor integratie in het project, vanwege hun consistent hoge scores op belangrijke aspecten zoals gebruiksvriendelijkheid, bereik en nauwkeurigheid. 
 ## Bronnen
+- [Evaluatie formulier 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:2553d092-bdd5-44fe-9d42-5e5778c4db4d)
+- [Evaluatie formulier 2](https://acrobat.adobe.com/id/urn:aaid:sc:EU:056f8e72-f52f-4371-a4a1-262baf1f0f5e)
+- [Evaluatie formulier 3](https://acrobat.adobe.com/id/urn:aaid:sc:EU:5815be64-04de-4a13-ae02-c3a1e72197e6)
+- [Test protocol deelopdracht 4](https://docs.google.com/document/d/1w61usxqKWZmartLdLhazbu1x97a9XXm4Uib38ldr-m0/edit?addon_store)
