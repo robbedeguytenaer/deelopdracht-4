@@ -120,7 +120,7 @@ Op basis van de evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd 
 
 De aanbeveling om verder te werken met de Bluetooth- en IR-sensoren is gebaseerd op zowel de individuele scores als de rangschikking van de sensoren door de testpersonen. Deze bevinding suggereert dat verschillende aspecten van de sensoren even belangrijk zijn voor een succesvolle integratie in het project. Door te focussen op de Bluetooth- en IR-sensoren kunnen we een gebruiksvriendelijk en nauwkeurig systeem ontwikkelen dat geschikt is voor buitenspelen.
 
-[!IMPORTANT]
+>[!IMPORTANT]
 > design requirement: id = dr008
 > 
 > **We werken verder met volgende uitschakelmechanismen: Bluetooth en Infrarood**
