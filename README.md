@@ -119,6 +119,12 @@ De ultrasoonsensor scoorde over het algemeen laag bij alle testpersonen. Hoewel 
 Op basis van de evaluaties zijn de Bluetooth- en infraroodsensoren geselecteerd als de meest geschikte sensoren voor integratie in het project. De aftikmethode met Bluetooth-RSSI-meting presteerde over het algemeen het beste, gevolgd door de IR-sensor, kleurensensor en als laatste de ultrasoonsensor.
 
 De aanbeveling om verder te werken met de Bluetooth- en IR-sensoren is gebaseerd op zowel de individuele scores als de rangschikking van de sensoren door de testpersonen. Deze bevinding suggereert dat verschillende aspecten van de sensoren even belangrijk zijn voor een succesvolle integratie in het project. Door te focussen op de Bluetooth- en IR-sensoren kunnen we een gebruiksvriendelijk en nauwkeurig systeem ontwikkelen dat geschikt is voor buitenspelen.
+
+[!IMPORTANT]
+> design requirement: id = dr008
+> 
+> **We werken verder met volgende uitschakelmechanismen: Bluetooth en Infrarood**
+
 ## Bronnen
 Gebruikerstest:
 - [Testprotocol TEST 2](https://docs.google.com/document/d/1BkApIH-f38Q3cW6vv41kQgkfSpGxI7UM/edit?usp=sharing&ouid=104947688789871349253&rtpof=true&sd=true)
